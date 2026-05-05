@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://aclanthology.org/2023.findings-acl.398">
-    <img src="https://img.shields.io/badge/Paper-FACTUAL-blue.svg" alt="FACTUAL">
+    <img src="https://img.shields.io/badge/ACL Paper-FACTUAL-blue.svg" alt="FACTUAL">
   </a>
   <a href="https://aclanthology.org/2025.emnlp-main.398">
-    <img src="https://img.shields.io/badge/Outstanding Paper-DiscoSG-purple.svg" alt="DiscoSG-Refiner">
+    <img src="https://img.shields.io/badge/EMNLP Outstanding Paper-DiscoSG-purple.svg" alt="DiscoSG-Refiner">
   </a>
   <a href="https://pypi.org/project/FactualSceneGraph/">
     <img src="https://img.shields.io/pypi/v/FactualSceneGraph?color=green" alt="PyPI version">
