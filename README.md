@@ -23,12 +23,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/zhuang-li/FACTUAL/blob/main/logo/monash_logo.png" alt="Monash University Logo" height="72" />
-  <img src="https://github.com/zhuang-li/FACTUAL/blob/main/logo/adobe_logo.png" alt="Adobe Logo" height="72" />
-  <img src="https://github.com/zhuang-li/FACTUAL/blob/main/logo/wuhan_logo.png" alt="Wuhan University Logo" height="72" />
-</p>
-
 ---
 
 ## Overview
